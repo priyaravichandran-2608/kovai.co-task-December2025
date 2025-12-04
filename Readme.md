@@ -17,7 +17,7 @@
    - Growth is positive, but planning should remain cautious for now.
 
 **Graph:**  
-![Ridership Trend](image-1.png)
+![Ridership Trend](image.png)
 
 ### 2. February Has the Highest Demand
   - February consistently peaks, suggesting that operational staffing and fleet allocation should be increased during this month.
@@ -187,3 +187,4 @@ Next 7 days forecast:
   The SARIMA model effectively captures weekly seasonality and short-term
   demand behavior. It performs best for stable services and provides reliable
   short-horizon forecasts, while high-volume routes require further tuning.
+
